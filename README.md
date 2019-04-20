@@ -6,7 +6,8 @@
 #### Propuesta Tecnológica
 > Descripción de la propuesta tecnológica.............
 
-### Objetivo General
+### Objetivos
+#### Objetivo General
 > Implementar un dashboard analitico de datos para la Policia Nacional del Perú para explotar diversos origenes de datos y en patrones y/o tendencias asociados a diversos procesos.
 
 #### Objetivos Específicos
