@@ -8,12 +8,14 @@
 
 ### Objetivos
 #### Objetivo General
-> Implementar un dashboard analitico de datos para la Policia Nacional del Perú para explotar diversos origenes de datos y en patrones y/o tendencias asociados a diversos procesos.
+> Implementar un dashboard analitico de datos para la detección de problemas cardiovasculares mediante la diferenciación de patrones y/o tendencias asociados a distintos factores.
 
 #### Objetivos Específicos
 1. Implementar plataforma de datps en cloud.
 1. Importar y preparar datos de diversos origenes.
 1. Explorar y Transformar los datos para la ejecución de consultas.
+1. Realizar un modelo de aprendizaje computador y discutir resultados
+1. Visualizar y comunicar los resultados obtenidos.
 
 ### Alcance 
 
@@ -21,6 +23,6 @@
 ### Restricciones
 | Restriccion   | Descripcion   |
 | ------------- | :-----------:|
-| tiempo de desarrollo      | descripcion..... |
-| costo    | descripcion..... |       
+| Tiempo de desarrollo      | descripcion..... |
+| Costo    | descripcion..... |       
 
