@@ -2,9 +2,9 @@
 ![Dashboard](https://cdn.sketchrepo.com/images/2x/banking-dashboard-p8.png)
 ### Descripción del Proyecto
 #### Realidad Problemática
-> La Policia Nacional del Perú ..... TO-DO
+> 
 #### Propuesta Tecnológica
-> Descripción de la propuesta tecnológica.............
+> Análisis de probabilidad mediante el uso de redes Bayesianas.
 #### Breve Descripción del Proyecto
 > Mediante el uso de redes Bayesianas se determinará la probabilidad, de una persona, de sufrir alguna enfermedad cardiovascular. Esta probabilidad aumentará o disminuirá a medida que se van analizando los resultados obtenidos en sus exámenes y/o diagnósticos realizados. 
 
@@ -28,6 +28,6 @@
 ### Restricciones
 | Restriccion   | Descripcion   |
 | ------------- | :-----------:|
-| Tiempo de desarrollo      | descripcion..... |
-| Costo    | descripcion..... |       
+| Tiempo de desarrollo      | El desarrollo del proyecto se llevará a cabo durante un ciclo académico (4 meses). |
+       
 
