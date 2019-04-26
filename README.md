@@ -5,6 +5,8 @@
 > La Policia Nacional del Perú ..... TO-DO
 #### Propuesta Tecnológica
 > Descripción de la propuesta tecnológica.............
+#### Breve Descripción del Proyecto
+> Mediante el uso de redes Bayesianas se determinará la probabilidad, de una persona, de sufrir alguna enfermedad cardiovascular. Esta probabilidad aumentará o disminuirá a medida que se van analizando los resultados obtenidos en sus exámenes y/o diagnósticos realizados. 
 
 ### Objetivos
 #### Objetivo General
@@ -17,9 +19,12 @@
 1. Realizar un modelo de aprendizaje computador y discutir resultados
 1. Visualizar y comunicar los resultados obtenidos.
 
-### Alcance 
-
-
+---
+## Alcance
+> El proyecto considerará lo siguiente:
+* Implementación de una plataforma de análisis de datos.
+* Investigación en el área de conocimiento de ciencia de los datos.
+* Desarrollo de un proyecto de análisis de datos utilizando una metodología.
 ### Restricciones
 | Restriccion   | Descripcion   |
 | ------------- | :-----------:|
